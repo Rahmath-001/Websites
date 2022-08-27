@@ -87,3 +87,77 @@
  .my-5 {
     margin: 4rem 0;   /* 4 rem =64px  */
  }
+
+
+
+ .m-1 {
+   margin: 1rem ;   /* 1 rem =16px  */
+}
+
+
+.m-2 {
+   margin: 1.5rem ;   /* 1 rem =16px  */
+}
+
+.m-3 {
+   margin: 2rem ;   /* 2 rem =32px  */
+}
+
+.m-4 {
+   margin: 3rem;   /* 3 rem =48px  */
+}
+
+.m-5 {
+   margin: 4rem ;   /* 4 rem =64px  */
+}
+
+
+
+
+/* PADDING */
+
+.py-1 {
+   padding: 1rem 0;   /* 1 rem =16px  */
+}
+
+
+.py-2 {
+   padding: 1.5rem 0;   /* 1 rem =16px  */
+}
+
+.py-3 {
+   padding: 2rem 0;   /* 2 rem =32px  */
+}
+
+.py-4 {
+   padding: 3rem 0;   /* 3 rem =48px  */
+}
+
+.py-5 {
+   padding: 4rem 0;   /* 4 rem =64px  */
+}
+
+
+
+.p-1 {
+  padding: 1rem ;   /* 1 rem =16px  */
+}
+
+
+.p-2 {
+  padding: 1.5rem ;   /* 1 rem =16px  */
+}
+
+.p-3 {
+  padding: 2rem ;   /* 2 rem =32px  */
+}
+
+.p-4 {
+  padding: 3rem;   /* 3 rem =48px  */
+}
+
+.p-5 {
+  padding: 4rem ;   /* 4 rem =64px  */
+}
+
+
