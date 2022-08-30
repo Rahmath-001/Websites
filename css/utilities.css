@@ -55,6 +55,7 @@
  .btn-dark {
    background-color: var(--dark-color);
    color: white;
+   /* padding: 10px; */
 }
 
 .bg-primary a,
