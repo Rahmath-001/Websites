@@ -36,6 +36,70 @@
 }
 
 
+/* backgrounds & coloured buttons */
+.bg-primary,
+ .btn-primary {
+   background-color: var(--primary-color);
+   color: white;
+}
+
+
+.bg-secondary,
+ .btn-secondary {
+   background-color: var(--secondary-color);
+   color: white;
+}
+
+
+.bg-dark,
+ .btn-dark {
+   background-color: var(--dark-color);
+   color: white;
+}
+
+.bg-primary a,
+ .btn-primary a,
+ .bg-secondary a,
+ .btn-secondary a,
+ .bg-dark a,
+ .btn-dark a {
+color: WHITE;
+ }
+
+
+.bg-light,
+ .btn-light {
+   background-color: var(--light-color);
+   color: #333;
+}
+
+
+/* text sizes */
+.lead {
+   font-size: 20px;
+}
+
+.sm {
+   font-size: 1rem;
+}
+
+.md {
+font-size: 2rem;
+}
+
+
+.lg {
+   font-size: 3rem;
+}
+
+.xl {
+   font-size: 4rem;
+}
+
+
+
+
+
 .text-center {
     text-align: center;
 }
@@ -53,7 +117,7 @@
  .grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 30px;
+    gap: 20px;
     justify-content: center;
     align-items: center;
     height: 100%;
