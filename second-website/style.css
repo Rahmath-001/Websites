@@ -134,7 +134,9 @@ header .logo
 }
 .text a:hover
 {
-  letter-spacing: 6px;
+  letter-spacing: 5px;
+  background-color: #214457;
+  color: white;
 }
 .social
 {
