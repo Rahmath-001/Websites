@@ -1,0 +1,19 @@
+.transparent-bg, .transparent-bg-dark, .boxed-nav, .center-brand, .dark-nav, .nav-gradient {
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.navbar {
+    padding-bottom: 0;
+    padding-top: 0;
+    z-index: 1000;
+}
+
+
+.navbar, .navbar-nav .nav-link, .dropdown-menu .dropdown-item, .navbar-nav .nav-link::before, .side-nav .navbar-nav .nav-link > span {
+    -webkit-transition: all .5s ease-in;
+    -o-transition: all .5s ease-in;
+    transition: all .5s ease-in;
+}
